@@ -24,6 +24,6 @@ resolution:1,920x1,080, format: .jpg
 ## Annotation
 rectangular bounding boxes of human body; rectangular bounding boxes of human body + riding object; 21 human body attributes
 ## Accuracy
-annotation accuracy of rectangular bounding boxes is over 95%; annotation accuracy of human body
+annotation accuracy of rectangular bounding boxes is over 95%; annotation accuracy of human body attributes is over 95%
 # Licensing Information
 Commercial License
