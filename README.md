@@ -3,7 +3,7 @@
 ## Description
 This data is a multi-view tracking data of 10,114 people in surveillance scenes. Surveillance scenes includes indoor and outdoor scenes. The data includes men and women of different ages. In terms of annotation, the human body bounding boxes, human body + riding object bounding boxes, and 21 human body attributes of tracking objects were annotated. This data can be used for human body multi-view tracking, Re-ID and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/965?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/965?source=Github
 
 
 # Specifications
